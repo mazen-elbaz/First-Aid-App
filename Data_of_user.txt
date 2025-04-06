@@ -1,0 +1,6 @@
+Username: test
+Password: Test123!@#
+Name: test
+Age: 18
+His Phone Number: 
+Parents Number: 

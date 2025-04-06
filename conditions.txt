@@ -1,0 +1,13 @@
+1 Bleeding or cut wounds
+2 Seizures
+3 Angina
+4 Shortness of breath in adults
+5 Choking
+6 Burns
+7 Poisoning
+8 Sunstroke
+9 Nosebleed
+10 Recovery position
+11 Allergy
+12 Poison
+13 First Aid Kites

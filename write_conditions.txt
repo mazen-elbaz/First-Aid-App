@@ -1,0 +1,10 @@
+Condition Number: 3
+
+Situation: Angina
+
+Instructions: 1.position the patient comfortably(semi-seated).
+2.Advise them not to extra any effort.
+3.if it is not their first episode,ask if they have medication their usually take in such situations.
+4.wait 15 minutes. if the pain persists after taking the medication,transport them to the hospital.
+
+*---------------------------------------------------------------------------------------------------------------------------------------------------------------------*
