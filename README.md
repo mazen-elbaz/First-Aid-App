@@ -44,6 +44,14 @@ A Python-based **First Aid** system with **voice command support** that can help
 - `requests` for handling web requests
 - `tkinter` *(usually built-in with Python)*
 
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
 You can install the required packages using:
 
 ```bash
